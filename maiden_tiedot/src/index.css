@@ -1,0 +1,11 @@
+.notification {
+    color: black;
+    font-style: italic;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.flag {
+    width: 400px;
+    height: auto;
+}
